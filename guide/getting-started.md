@@ -9,7 +9,7 @@ Choose a plan and get your API key instantly:
 - **Startup**: €9/month - 10,000 requests
 - **Business**: €29/month - 50,000 requests
 
-[Get API Key →](https://cyberapi.io/#pricing)
+[Get API Key →](https://www.cyberapi.io/#pricing)
 
 ## 2. Make Your First Request
 
@@ -114,4 +114,4 @@ echo "Risk: " . $result['risk_score'];
 
 - 📧 Email: [inbox@cyberapi.io](mailto:inbox@cyberapi.io)
 - 💻 GitHub: [cyberapi-io/sdk](https://github.com/cyberapi-io/sdk)
-- 📚 Swagger: [cyberapi.io/docs/api](https://cyberapi.io/docs/api/check-endpoint)
+- 📚 Swagger: [threats.cyberapi.io/docs](https://threats.cyberapi.io/docs/api/check-endpoint)
