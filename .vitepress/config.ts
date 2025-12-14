@@ -13,7 +13,7 @@ export default defineConfig({
             { text: 'Guide', link: '/guide/getting-started' },
             { text: 'API Reference', link: '/api/check-endpoint' },
             { text: 'SDKs', link: '/guide/sdks' },
-            { text: 'Home', link: 'https://cyberapi.io' }
+            { text: 'Home', link: 'https://wwwcyberapi.io' }
         ],
 
         sidebar: {
