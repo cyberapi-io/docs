@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'CyberAPI Docs',
     description: 'CyberAPI Reference & Documentation',
-    base: '/docs/',
+    base: '/',
     ignoreDeadLinks: true,
 
     themeConfig: {
