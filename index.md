@@ -3,52 +3,28 @@ layout: home
 
 hero:
   name: CyberAPI
-  text: Threat Intelligence API
-  tagline: Simple and reliable security intelligence for your applications
+  text: Private Beta
+  tagline: Documentation is closed while the service is being rebuilt.
   image:
     src: /logo.png
     alt: CyberAPI Logo
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/getting-started
+      text: Request access
+      link: https://www.cyberapi.io
     - theme: alt
-      text: API Reference
-      link: /api/check-endpoint
-
-features:
-  - title: Fast & Reliable
-    details: Low-latency responses served from globally distributed infrastructure
-  - title: Easy Integration
-    details: Simple JSON API compatible with any language or framework
-  - title: Rich Data
-    details: 15+ threat signals including ML scores, blacklist hits, and domain age
-  - title: 6 Official SDKs
-    details: Python, JavaScript, PHP, Go, Ruby, and .NET with complete documentation
-  - title: Real-time Updates
-    details: Threat intelligence updated every 15 minutes from multiple sources
-  - title: Premium Support
-    details: Direct email support and prioritized support for business tier
+      text: Contact us
+      link: mailto:inbox@cyberapi.io
 ---
 
-## Trusted by Security Teams
+## Documentation is temporarily closed
 
-CyberAPI provides real-time threat intelligence to protect applications from malicious domains, disposable emails, and sophisticated attacks.
+CyberAPI is in private beta. Public signups and the reference documentation are
+closed while we take the service to where it needs to be.
 
-```bash
-# Get started in 60 seconds
-curl "https://threats.cyberapi.io/api/v1/check?domain=example.com" \
-  -H "X-API-Key: your_key_here"
-```
+**Existing customers are unaffected** — your keys keep working exactly as before.
+If you need the reference material or want to discuss a specific use case, write
+to [inbox@cyberapi.io](mailto:inbox@cyberapi.io) and we will send it directly.
 
-## What You Get
-
-- **10,000-50,000 requests/month** depending on tier
-- **Advanced ML models** for threat detection
-- **Real-time blacklist** checking
-- **Domain age & WHOIS** data
-- **GeoIP & ASN** information
-- **SSL certificate** validation
-- **And 10+ more signals**
-
-[Start Building →](/guide/getting-started)
+To be notified when access opens, leave your address at
+[www.cyberapi.io](https://www.cyberapi.io).
